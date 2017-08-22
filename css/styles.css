@@ -51,7 +51,7 @@
     display: inline-block;
     position: relative;
     border-width: 2px;
-    top: 50%;
+    top: 350px;
     z-index: 10000;
     color: black;
     font-family: Passion One;
@@ -65,3 +65,29 @@
     cursor: pointer;
 }
 
+.middle-text{
+    z-index: 100000;
+    font-family: Nunito;
+    position: relative;
+    /*left: 120px;*/
+    font-size: 72px;
+    top: 330px;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+.bootcruit{
+    position: relative;
+    left: 10px;
+    z-index: 10000;
+    font-family: Teko;
+    letter-spacing: 1px;
+    font-size: 52px;
+    margin: 15px;
+}
